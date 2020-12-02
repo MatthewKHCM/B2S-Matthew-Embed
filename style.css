@@ -1,0 +1,17 @@
+html {
+  background-color: skyblue;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(106, 164, 223);
+}
+
+#showViz {
+  display: none;
+}
+
+button:hover {
+  background-color: lightblue;
+}
